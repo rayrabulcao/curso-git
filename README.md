@@ -1,2 +1,2 @@
 # curso-git
-Adicionando tema: Teste
+Adicionando tema arquivo: Teste de continuacao
